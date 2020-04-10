@@ -10,4 +10,10 @@ Muitos conceitos revisados, alguns conceitos novos aprendidos! Como sempre um m�
 
 Destacar que também aprendi ferramentas novas, como o Notion que é fantástico!!!!!! Fora o usuo pessoal para os estudos/afazeres vou levar ele para o trabalho e mostrar para todos a ótima maneira de se manter organizado e sempre dentro do cronograma
 
+
+
+
+
+
 #rocktseat #node #react $creat-native #javascript
+
